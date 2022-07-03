@@ -42,7 +42,7 @@ const AddTopic = () =>{
             <div class="mb-5 text-center">
 				<div class="text-mont p-1 d-flex justify-content-between align-items-center">
 					<p class="navbar-brand">
-						<strong>ADD Meeting</strong>
+						<strong>ADD Topics</strong>
 					</p>
 					<p class="navbar-brand">
 						<em>
@@ -73,7 +73,7 @@ const AddTopic = () =>{
 								</li>
 								<li class="m-1 nav-item">
 									<a class="nav-link disabled" href="/surfit/addTopic">
-										ADD Meeting
+										Add Topic
 									</a>
 								</li>
 							</ul>
@@ -187,7 +187,7 @@ const AddTopic = () =>{
 					</div>
 					<div className="d-flex justify-content-center">
 						<Form.Group className="form-sizing-double card-body">
-							<button className="btn-link-style-general btn btn-link-style-submit mt-3">Add Meeting</button>
+							<button className="btn-link-style-general btn btn-link-style-submit mt-3">Add</button>
 						</Form.Group>
 					</div>
 				</Form>

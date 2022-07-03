@@ -60,7 +60,7 @@ const EditTopic = (props) =>{
             <div class="mb-5 text-center">
 				<div class="text-mont p-1 d-flex justify-content-between align-items-center">
 					<p class="navbar-brand">
-						<strong>ADD Meeting</strong>
+						<strong>Update Topic</strong>
 					</p>
 					<p class="navbar-brand">
 						<em>
@@ -91,7 +91,7 @@ const EditTopic = (props) =>{
 								</li>
 								<li class="m-1 nav-item">
 									<a class="nav-link disabled" href="/surfit/addTopic">
-										ADD Meeting
+										ADD Topic
 									</a>
 								</li>
 								<li class="m-1 nav-item">
